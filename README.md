@@ -172,8 +172,10 @@ This project is licensed under the **MIT License** — free to use, modify, and 
 
 ## 👨‍💻 Author
 
-**Shourish Paul**
-B.Tech Student – SRM Institute of Science and Technology
+**Shourish Paul**  
+B.Tech Student – SRM Institute of Science and Technology  
+📧 Email: sp7179@srmist.edu.in  
+🆔 Registration No: RA2311003030036
 
 ---
 
