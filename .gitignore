@@ -1,0 +1,51 @@
+# 🔹 Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 🔹 Virtual environment (VERY IMPORTANT)
+.venv/
+venv/
+env/
+ENV/
+
+# 🔹 Environment variables / secrets
+.env
+.env.*
+
+# 🔹 Build / distribution
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# 🔹 Logs
+*.log
+logs/
+
+# 🔹 Database
+*.db
+*.sqlite3
+
+# 🔹 IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 🔹 OS files
+.DS_Store
+Thumbs.db
+
+# 🔹 FastAPI / temp
+*.pid
+*.out
+
+# 🔹 Testing
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# 🔹 Misc
+temp/
